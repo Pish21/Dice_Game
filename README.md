@@ -1,2 +1,3 @@
 # Dice_Game
-Refresh the page to play the game. 
+1. Pick a dice.
+2. Refresh the page to play the game. 
